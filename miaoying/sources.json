@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "name": "暴风",
+      "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "量子",
+      "url": "https://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "牛牛4K",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod"
+    },
+    {
+      "name": "速播",
+      "url": "https://subocj.com/api.php/provide/vod"
+    },
+    {
+      "name": "红牛",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod"
+    },
+    {
+      "name": "极速",
+      "url": "https://jszyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "魔都",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod"
+    }
+  ]
+}
